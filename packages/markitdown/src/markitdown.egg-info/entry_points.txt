@@ -1,0 +1,2 @@
+[console_scripts]
+markitdown = markitdown.cli:main
